@@ -1,6 +1,6 @@
-# Basic Sample Hardhat Project
+# ERC20 faucet
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+A project thrown together learning how to create a ERC20 token
 
 Try running some of the following tasks:
 
